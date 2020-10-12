@@ -1,0 +1,1 @@
+﻿build solution then run runconsole.bat
